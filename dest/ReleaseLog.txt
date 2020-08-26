@@ -1,0 +1,14 @@
+
+4	2020-05-01
+	更新获取signature方式，改为使用webdriver模拟方式
+
+3	2019-12-07
+	增加User Config，并把Download路径设置从“Setting – System Config”移动到“Setting – User Config”
+	增加自动修改md5的四种方式：不修改、自动修改、片尾添加图片（持续3秒）、片尾添加视频
+
+2	2019-11-29
+	fix bug: 无法正确从单视频分享的地址中获取真正的视频下载地址
+
+1	2019-11-18
+	support GUI download
+	support input multi-urls in on file
